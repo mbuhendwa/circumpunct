@@ -36,9 +36,7 @@
 				</div><!-- .footer-widgets -->
 			<?php endif; ?>
 			<div class="site-info">
-				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'independent-publisher-2' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'independent-publisher-2' ), 'WordPress' ); ?></a>
-				<span class="sep"> | </span>
-				<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'independent-publisher-2' ), 'Independent Publisher 2', '<a href="http://raamdev.com/" rel="designer">Raam Dev</a>' ); ?>
+				Conscience Africaine <span class="sep"> | </span> 2020
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #content-wrapper -->
