@@ -61,9 +61,9 @@ if ( ! function_exists( 'independent_publisher_2_entry_meta' ) ) :
  */
 function independent_publisher_2_entry_meta() { ?>
 		<div class="entry-meta">
-			<span class="byline">
-				<?php the_author_posts_link(); ?>
-			</span>
+			<!-- <span class="byline">
+				<?php // the_author_posts_link(); ?>
+			</span> -->
 			<?php if ( 'post' === get_post_type() ) { ?>
 				<span class="cat-links">
 					<?php

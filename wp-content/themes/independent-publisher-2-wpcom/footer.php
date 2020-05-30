@@ -36,7 +36,7 @@
 				</div><!-- .footer-widgets -->
 			<?php endif; ?>
 			<div class="site-info">
-				Conscience Africaine <span class="sep"> | </span> 2020
+				Regard sur le Congo <span class="sep"> | </span> 2020
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #content-wrapper -->

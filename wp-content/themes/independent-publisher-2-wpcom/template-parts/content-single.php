@@ -40,11 +40,11 @@
 		?>
 	</div><!-- .entry-footer -->
 
-	<div class="entry-author-wrapper">
-		<?php independent_publisher_2_author_bio(); ?>
+	<!-- <div class="entry-author-wrapper">
+		<?php //independent_publisher_2_author_bio(); ?>
 		<div class="site-posted-on">
-			<strong><?php esc_html_e( 'Published', 'post published', 'independent-publisher-2' ); ?></strong>
-			<?php echo independent_publisher_2_posted_time(); ?>
-		</div><!-- .site-posted-on -->
-	</div>
+			<strong><?php //esc_html_e( 'Published', 'post published', 'independent-publisher-2' ); ?></strong>
+			<?php //echo independent_publisher_2_posted_time(); ?>
+		</div><!-- .site-posted-on ->
+	</div> -->
 </article><!-- #post-## -->
